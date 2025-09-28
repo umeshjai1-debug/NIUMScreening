@@ -1,0 +1,12 @@
+streamlit>=1.20
+pandas
+openpyxl
+python-multipart
+sqlalchemy
+alembic
+passlib[bcrypt]
+pyjwt
+rapidfuzz
+python-dateutil
+httpx
+pytest
